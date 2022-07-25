@@ -1,0 +1,35 @@
+{
+  "name": "shopforlaguna",
+  "version": "1.0.0",
+  "description": "Laguna Resturent Registration and order and user view menu",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opentect4u/Shopforlaguna.git"
+  },
+  "author": "Subham Samanta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opentect4u/Shopforlaguna/issues"
+  },
+  "homepage": "https://github.com/opentect4u/Shopforlaguna#readme",
+  "dependencies": {
+    "adm-zip": "^0.5.7",
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "buffer": "^6.0.3",
+    "canvas": "^2.8.0",
+    "cors": "^2.8.5",
+    "dateformat": "^4.5.1",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1",
+    "multer": "^1.4.3",
+    "mysql": "^2.18.1",
+    "nodemailer": "^6.6.3",
+    "qrcode": "^1.4.4",
+    "request": "^2.88.2"
+  }
+}

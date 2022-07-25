@@ -1,0 +1,7 @@
+/node_modules/
+/assets/
+/public/
+# package-lock.json
+# package.json
+/core/
+/uploads/
